@@ -1,0 +1,38 @@
+.bg-container {
+  background-color: white;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.count-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 50vh;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.count-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
+.count-even-odd {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+}
+.button {
+  height: 30px;
+  width: 90px;
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+  border-width: 0px;
+}
